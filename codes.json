@@ -1,0 +1,32 @@
+{"accelerator_simulation_codes" :
+  "This is a list of accelerator simulation codes in the community.",
+ "codes" :
+ [
+  {
+    "title" : "Bmad",
+    "subtitle" : "An object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings",
+    "description" : "Full description here.",
+    "homepage" : "https://www.classe.cornell.edu/bmad/",
+    "institutions" : ["Cornell University"],
+    "institution_link" : "https://www.cornell.edu",
+    "repository" : "https://github.com/...",
+    "issue_tracker" : "https://github.com/...",
+    "license" : "SPDX identifier here",
+    "publication" : "A paper citation",
+    "publication_link" : "https://doi.org/DOIHERE"
+  }
+,
+  {
+    "title" : "Warp",
+    "subtitle" : "A particle-in-cell (PIC) framework designed to simulate high current particle beams and plasmas",
+    "description" : "Warp incorporates a variety of integrated physics models and extensive diagnostics. The PIC method is implemented in axisymmetric, transverse-slice, and fully three-dimensional modes.",
+    "homepage" : "https://blast.lbl.gov/blast-codes-warp",
+    "institutions" : ["Lawrence Berkeley National Laboratory", "Lawrence Livermore National Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://bitbucket.org/berkeleylab/warp",
+    "issue_tracker" : "https://bitbucket.org/berkeleylab/warp/issues",
+    "license" : "BSD-3-Clause-LBNL",
+    "publication" : "A. Friedman, R. H. Cohen, D. P. Grote, S. M. Lund, W. M. Sharp, J.-L. Vay, I. Haber, and R. A. Kishek, 'Computational Methods in the Warp Code Framework for Kinetic Simulations of Particle Beams and Plasmas,' IEEE Trans. Plasma Sci. vol. 42, no. 5, p. 1321 (May 2014)",
+    "publication_link" : "https://doi.org/10.1109/TPS.2014.2308546"
+  }
+]}
