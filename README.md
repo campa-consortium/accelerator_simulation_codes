@@ -1,2 +1,5 @@
-# accelerator_simulation_codes
-📙 A Community Database of Accelerator Simulation Codes
+# 📙 Accelerator Simulation Codes
+
+This is a community database of accelerator simulation codes.
+
+Contributions to the file `codes.json`, in which we list accelerator simulation codes, are welcome!
