@@ -1,7 +1,5 @@
-{"accelerator_simulation_codes" :
-  "This is a list of accelerator simulation codes in the community.",
- "codes" :
- [
+{
+ "codes" : [
   {
     "title" : "Bmad",
     "subtitle" : "An object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings",

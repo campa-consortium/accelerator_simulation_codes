@@ -1,0 +1,27 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "codes": {
+      "description": "A list of particle accelerator simulation codes",
+      "type": "array",
+      "items": [{
+        "type": "object",
+        "required": ["title", "description"],
+        "properties": {
+          "title": {"type": "string"},
+          "subtitle": {"type": "string"},
+          "description": {"type": "string"},
+          "homepage": {"type": "string"},
+          "institutions": {"type": "array"},
+          "institution_link": {"type": "string"},
+          "repository": {"type": "string"},
+          "issue_tracker": {"type": "string"},
+          "license": {"type": "string"},
+          "publication": {"type": "string"},
+          "publication_link": {"type": "string"}
+        }
+      }]
+    }
+  },
+  "required": [ "codes" ]
+}
