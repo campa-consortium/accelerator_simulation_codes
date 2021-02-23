@@ -6,7 +6,7 @@
       "type": "array",
       "items": [{
         "type": "object",
-        "required": ["title", "description"],
+        "required": ["title", "description", "homepage", "license"],
         "properties": {
           "title": {"type": "string"},
           "subtitle": {"type": "string"},
