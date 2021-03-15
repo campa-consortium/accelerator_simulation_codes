@@ -82,8 +82,7 @@ very large accelerators and solves various problems on such machines.  MAD-X is 
     "issue_tracker" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/issues",
     "license" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/blob/master/License.txt",
     "publication" : "H. Grote and F. Schmidt, 'MAD-X - An Upgrade from MAD8', Proceedings of the 2003 Particle Accelerator Conference, Vol. 5, 3497-3499 - 2003",
-    "publication_link" : "https://doi.org/10.1109/pac.2003.1289960
-"
+    "publication_link" : "https://doi.org/10.1109/pac.2003.1289960"
   }
 ,
   {
