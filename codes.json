@@ -76,7 +76,7 @@
     "description" : "MAD-X is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to
 very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
     "homepage" : "http://mad.web.cern.ch/mad/",
-    "institutions" : ["Conseil Européen pour la Recherche Nucléaire (CERN)"],
+    "institutions" : ["European Council for Nuclear Research"],
     "institution_link" : "https://home.cern/",
     "repository" : "https://github.com/MethodicalAcceleratorDesign/MAD-X",
     "issue_tracker" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/issues",
