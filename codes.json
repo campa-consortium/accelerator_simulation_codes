@@ -29,6 +29,48 @@
   }
 ,
   {
+    "title" : "BeamBeam3D",
+    "subtitle" : " ",
+    "description" : "BeamBeam3D is a parallel, electrostatic particle-in-cell (PIC) code for modeling strong-strong or strong-weak beam-beam interaction in high-energy colliders.",
+    "homepage" : "https://blast.lbl.gov/blast-codes-beambeam3d",
+    "institutions" : ["Lawrence Berkeley National Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://github.com/beam-beam/BeamBeam3D",
+    "issue_tracker" : "https://github.com/beam-beam/BeamBeam3D/issues",
+    "license" : "https://github.com/beam-beam/BeamBeam3D/blob/master/V1.0/license.txt",
+    "publication" : "J. Qiang, M.A. Furman, and R. D. Ryne, 'A parallel particle-in-cell model for beam-beam interaction in high energy ring colliders,' J. Comp. Phys. 198 (2004) ",
+    "publication_link" : "https://doi.org/10.1016/j.jcp.2004.01.008"
+  }
+,
+  {
+    "title" : "IMPACT",
+    "subtitle" : "Integrated Map and Particle Accelerator Tracking Code",
+    "description" : "The IMPACT Suite is a 3-D parallel electrostatic PIC framework for modeling high intensity, high brightness beams in rf proton linacs, electron linacs and photoinjectors. IMPACT draws upon MaryLie for high order optics based on Lie algebraic maps.",
+    "homepage" : "https://blast.lbl.gov/blast-codes-impact/",
+    "institutions" : ["Lawrence Berkeley National Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://github.com/impact-lbl/IMPACT-Z",
+    "issue_tracker" : "https://github.com/impact-lbl/IMPACT-Z/issues",
+    "license" : "BSD",
+    "publication" : "J. Qiang, R. Ryne, S. Habib, V. Decyk, “An Object-Oriented Parallel Particle-In-Cell Code for Beam Dynamics Simulation in Linear Accelerators,” Journal of Computational Physics 163 (2000), pp. 434-451.",
+    "publication_link" : "https://doi.org/10.1006/jcph.2000.6570"
+  }
+,
+  {
+    "title" : "POSINST",
+    "subtitle" : "",
+    "description" : "POSINST is a 2-D electrostatic PIC code for studying the buildup of electron clouds. POSINST has a detailed secondary electron yield module.",
+    "homepage" : "https://blast.lbl.gov/blast-codes-posinst/",
+    "institutions" : ["Lawrence Berkeley National Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "M. A. Furman and M. T. F. Pivi, 'Probabilistic model for the simulation of secondary electron emission,'Phys. Rev. ST Accel. Beams 5, 124404.",
+    "publication_link" : "https://doi.org/10.1103/PhysRevSTAB.5.124404"
+  }
+,
+  {
     "title" : "MaryLie/IMPACT",
     "subtitle" : "Lie algebraic beam dynamics code with space charge",
     "description" : "MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
