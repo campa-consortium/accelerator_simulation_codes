@@ -71,21 +71,6 @@
   }
 ,
   {
-    "title" : "MAD-X",
-    "subtitle" : "Methodical Accelerator Design",
-    "description" : "MAD-X is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to
-very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
-    "homepage" : "http://mad.web.cern.ch/mad/",
-    "institutions" : ["Conseil Européen pour la Recherche Nucléaire (CERN)"],
-    "institution_link" : "https://home.cern/",
-    "repository" : "https://github.com/MethodicalAcceleratorDesign/MAD-X",
-    "issue_tracker" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/issues",
-    "license" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/blob/master/License.txt",
-    "publication" : "H. Grote and F. Schmidt, 'MAD-X - An Upgrade from MAD8', Proceedings of the 2003 Particle Accelerator Conference, Vol. 5, 3497-3499 - 2003",
-    "publication_link" : "https://doi.org/10.1109/pac.2003.1289960"
-  }
-,
-  {
     "title" : "MaryLie/IMPACT",
     "subtitle" : "Lie algebraic beam dynamics code with space charge",
     "description" : "MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
