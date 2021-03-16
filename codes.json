@@ -71,7 +71,7 @@
   }
   ,
   {
-    "title" : "COSY INFINITY)",
+    "title" : "COSY INFINITY",
     "subtitle" : "",
     "description" : "COSY is a system for the use of various advanced concepts of modern scientific computing. COSY currently has more than 2500 registered users and has been extensively cross-checked and  verified.",
     "homepage" : "https://bt.pa.msu.edu/index_cosy.htm",
@@ -85,7 +85,7 @@
   }
   ,
   {
-    "title" : "elegant, Pelegant)",
+    "title" : "elegant, Pelegant",
     "subtitle" : "",
     "description" : "elegant is an accelerator code that computes beta functions, matrices, orbits, floor coordinates, amplification factors, dynamic aperture, and more. It does 6-D tracking with matrices and/or canonical integrators, and supports a variety of time-dependent elements. It also does optimization (e.g., matching), including optimization of tracking results. ",
     "institutions" : ["Argonne National Laboratory, Advanced Photon Source"],
@@ -98,7 +98,7 @@
   }
 ,
   {
-    "title" : "IMPACT",
+    "title" : "IMPACT (including IMPACT-T and IMPACT-Z)",
     "subtitle" : "Integrated Map and Particle Accelerator Tracking Code",
     "description" : "The IMPACT Suite is a 3-D parallel electrostatic PIC framework for modeling high intensity, high brightness beams in rf proton linacs, electron linacs and photoinjectors. IMPACT draws upon MaryLie for high order optics based on Lie algebraic maps.",
     "homepage" : "https://blast.lbl.gov/blast-codes-impact/",
@@ -127,9 +127,9 @@
   }
 ,
   {
-    "title" : "MaryLie/IMPACT",
+    "title" : "MaryLie and MaryLie/IMPACT",
     "subtitle" : "Lie algebraic beam dynamics code with space charge",
-    "description" : "MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
+    "description" : "MaryLie is a beam dynamics code based on Lie Algebraic methods. MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
     "homepage" : "TBD",
     "institutions" : ["Lawrence Berkeley National Laboratory", "University of Maryland"],
     "institution_link" : "https://www.lbl.gov",
@@ -169,7 +169,7 @@
   }
   ,
   {
-    "title" : "OCELOT)",
+    "title" : "OCELOT",
     "subtitle" : "Accelerator, radiation and x-ray optics simulation framework",
     "description" : "Ocelot is a multiphysics simulation toolkit designed for studying FEL and storage ring-based light sources. Ocelot is written in Python. Its central concept is the writing of python's scripts for simulations with the usage of Ocelot's modules and functions and the standard Python libraries.",
     "homepage" : "TBD",
@@ -227,12 +227,12 @@
   {
     "title" : "Propaga",
     "subtitle" : "",
-    "description" : "TBD",
+    "description" : "Propaga is a C++ code developed by the Physics of Complex System group, inside the Physics and Astronomy Department at the Bologna University, to study the three dimensional propagation of a particle bunch along a transfer line, composed by many different lattice elements.",
     "homepage" : "TBD",
     "institutions" : ["TBD"],
     "institution_link" : "TBD",
-    "repository" : "TBD",
-    "issue_tracker" : "TBD",
+    "repository" : "https://github.com/ALaDyn/Propaga/",
+    "issue_tracker" : "https://github.com/ALaDyn/Propaga/issues/",
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -254,11 +254,11 @@
   ,
   {
     "title" : "SAD",
-    "subtitle" : "TBD",
-    "description" : "TBD",
-    "homepage" : "TBD",
-    "institutions" : ["TBD"],
-    "institution_link" : "TBD",
+    "subtitle" : "Strategic Accelerator Design",
+    "description" : "SAD is a computer program complex for accelerator design. It has been developed in KEK since 1986. SAD has proven to be powerful and useful in designs, simulations, commissioning, and improvement of TRISTAN, KEKB, FFTB, ATF, JLC, NLC, ILC, JHF, J-PARC and others.",
+    "homepage" : "https://acc-physics.kek.jp/SAD/",
+    "institutions" : ["KEK"],
+    "institution_link" : "https://www.kek.jp/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
     "license" : "TBD",
@@ -268,9 +268,9 @@
   ,
   {
     "title" : "SAMM",
-    "subtitle" : "TBD",
-    "description" : "TBD",
-    "homepage" : "TBD",
+    "subtitle" : "Simple Accelerator Modelling in Matlab",
+    "description" : "SAMM is an accelerator tracking code that runs in Matlab.  The code consists of a set of Matlab class definitions and functions, for representing accelerator components and beam lines, and for applying standard analysis techniques.",
+    "homepage" : "http://pcwww.liv.ac.uk/~awolski/main_links_computercodes.htm",
     "institutions" : ["TBD"],
     "institution_link" : "TBD",
     "repository" : "TBD",
@@ -282,16 +282,16 @@
   ,
   {
     "title" : "SixTrack",
-    "subtitle" : "TBD",
-    "description" : "TBD",
-    "homepage" : "TBD",
-    "institutions" : ["TBD"],
-    "institution_link" : "TBD",
+    "subtitle" : "6D Tracking Code",
+    "description" : "SixTrack is a single particle 6D symplectic tracking code optimized for long term tracking in high energy rings. It is mainly used for the LHC for dynamic aperture studies, tune optimization, and collimation studies.",
+    "homepage" : "http://sixtrack.web.cern.ch/SixTrack/",
+    "institutions" : ["CERN"],
+    "institution_link" : "https://home.cern/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
     "license" : "TBD",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "publication" : "De Maria, R., et al. ‘SixTrack Version 5: Status and New Developments’. In Proceedings of IPAC 2019, 3200–3203. Melbourne, Australia",
+    "publication_link" : "DOI:10.18429/JACoW-IPAC2019-WEPTS043"
   }
   ,
   {
@@ -310,14 +310,14 @@
   ,
   {
     "title" : "ZGOUBI",
-    "subtitle" : "TBD",
-    "description" : "TBD",
-    "homepage" : "TBD",
+    "subtitle" : "",
+    "description" : "zgoubi is a ray-tracing code in use for charged particle beam dynamics simulations. It can simulate beam dynamics in a large variety of machines and optical systems.",
+    "homepage" : "https://zgoubi.sourceforge.io/",
     "institutions" : ["TBD"],
     "institution_link" : "TBD",
-    "repository" : "TBD",
+    "repository" : "https://zgoubi.sourceforge.io/",
     "issue_tracker" : "TBD",
-    "license" : "TBD",
+    "license" : "GPLv2",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
