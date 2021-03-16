@@ -69,4 +69,32 @@
     "publication" : "M. A. Furman and M. T. F. Pivi, 'Probabilistic model for the simulation of secondary electron emission,'Phys. Rev. ST Accel. Beams 5, 124404.",
     "publication_link" : "https://doi.org/10.1103/PhysRevSTAB.5.124404"
   }
+,
+  {
+    "title" : "MADX",
+    "subtitle" : "Lie algebraic beam dynamics code with space charge",
+    "description" : "MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
+    "homepage" : "TBD",
+    "institutions" : ["Lawrence Berkeley National Laboratory", "University of Maryland"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://github.com/...",
+    "issue_tracker" : "https://github.com/...",
+    "license" : "TBD",
+    "publication" : "A paper citation",
+    "publication_link" : "https://doi.org/DOIHERE"
+  }
+,
+  {
+    "title" : "MaryLie/IMPACT",
+    "subtitle" : "Lie algebraic beam dynamics code with space charge",
+    "description" : "MaryLie/IMPACT (ML/I) combines features of MaryLie and IMPACT along with other features including a MAD-like front end",
+    "homepage" : "TBD",
+    "institutions" : ["Lawrence Berkeley National Laboratory", "University of Maryland"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://github.com/...",
+    "issue_tracker" : "https://github.com/...",
+    "license" : "TBD",
+    "publication" : "A paper citation",
+    "publication_link" : "https://doi.org/DOIHERE"
+  }
 ]}
