@@ -21,6 +21,7 @@
     "homepage" : "https://blast.lbl.gov/blast-codes-warp",
     "institutions" : ["Lawrence Berkeley National Laboratory", "Lawrence Livermore National Laboratory"],
     "institution_link" : "https://www.lbl.gov/web",
+    "institution_link2" : "https://www.lbl.gov/web2",
     "repository" : "https://bitbucket.org/berkeleylab/warp",
     "issue_tracker" : "https://bitbucket.org/berkeleylab/warp/issues",
     "license" : "BSD-3-Clause-LBNL",
