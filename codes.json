@@ -112,34 +112,6 @@
   }
   ,
   {
-    "title" : "MERLIN++",
-    "subtitle" : "",
-    "description" : "Merlin++ is a C++ charged-particle tracking library developed for the simulation and analysis of complex beam dynamics within high energy particle accelerators.",
-    "homepage" : "https://github.com/Merlin-Collaboration/Merlin/",
-    "institutions" : ["TBD"],
-    "institution_link" : "TBD",
-    "repository" : "https://github.com/Merlin-Collaboration/Merlin/",
-    "issue_tracker" : "https://github.com/Merlin-Collaboration/Merlin/issues/",
-    "license" : "GPL-2.0",
-    "publication" : "Robert Appleby et al., 'Merlin++, a flexible and feature-rich accelerator physics and particle tracking library'",
-    "publication_link" : "https://arxiv.org/abs/2011.04335"
-  }
-,
-  {
-    "title" : "POSINST",
-    "subtitle" : "",
-    "description" : "POSINST is a 2-D electrostatic PIC code for studying the buildup of electron clouds. POSINST has a detailed secondary electron yield module.",
-    "homepage" : "https://blast.lbl.gov/blast-codes-posinst/",
-    "institutions" : ["Lawrence Berkeley National Laboratory"],
-    "institution_link" : "https://www.lbl.gov",
-    "repository" : "TBD",
-    "issue_tracker" : "TBD",
-    "license" : "TBD",
-    "publication" : "M. A. Furman and M. T. F. Pivi, 'Probabilistic model for the simulation of secondary electron emission,'Phys. Rev. ST Accel. Beams 5, 124404.",
-    "publication_link" : "https://doi.org/10.1103/PhysRevSTAB.5.124404"
-  }
-,
-  {
         "title" : "MAD8 and MAD-X (includes PTC)",
     "subtitle" : "Methodical Accelerator Design",
     "description" : "MAD-X is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
@@ -166,6 +138,34 @@
     "license" : "TBD",
     "publication" : "A paper citation",
     "publication_link" : "https://doi.org/DOIHERE"
+  }
+,
+  {
+    "title" : "MERLIN++",
+    "subtitle" : "",
+    "description" : "Merlin++ is a C++ charged-particle tracking library developed for the simulation and analysis of complex beam dynamics within high energy particle accelerators.",
+    "homepage" : "https://github.com/Merlin-Collaboration/Merlin/",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "https://github.com/Merlin-Collaboration/Merlin/",
+    "issue_tracker" : "https://github.com/Merlin-Collaboration/Merlin/issues/",
+    "license" : "GPL-2.0",
+    "publication" : "Robert Appleby et al., 'Merlin++, a flexible and feature-rich accelerator physics and particle tracking library'",
+    "publication_link" : "https://arxiv.org/abs/2011.04335"
+  }
+,
+  {
+    "title" : "POSINST",
+    "subtitle" : "",
+    "description" : "POSINST is a 2-D electrostatic PIC code for studying the buildup of electron clouds. POSINST has a detailed secondary electron yield module.",
+    "homepage" : "https://blast.lbl.gov/blast-codes-posinst/",
+    "institutions" : ["Lawrence Berkeley National Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "M. A. Furman and M. T. F. Pivi, 'Probabilistic model for the simulation of secondary electron emission,'Phys. Rev. ST Accel. Beams 5, 124404.",
+    "publication_link" : "https://doi.org/10.1103/PhysRevSTAB.5.124404"
   }
   ,
   {
