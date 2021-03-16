@@ -37,7 +37,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "https://github.com/beam-beam/BeamBeam3D",
     "issue_tracker" : "https://github.com/beam-beam/BeamBeam3D/issues",
-    "license" : "https://github.com/beam-beam/BeamBeam3D/blob/master/V1.0/license.txt",
+    "license" : "BSD-3-Clause-LBNL",
     "publication" : "J. Qiang, M.A. Furman, and R. D. Ryne, 'A parallel particle-in-cell model for beam-beam interaction in high energy ring colliders,' J. Comp. Phys. 198 (2004) ",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2004.01.008"
   }
