@@ -69,6 +69,33 @@
     "publication" : "J. Qiang, M.A. Furman, and R. D. Ryne, 'A parallel particle-in-cell model for beam-beam interaction in high energy ring colliders,' J. Comp. Phys. 198 (2004) ",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2004.01.008"
   }
+  ,
+  {
+    "title" : "COSY INFINITY)",
+    "subtitle" : "",
+    "description" : "COSY is a system for the use of various advanced concepts of modern scientific computing. COSY currently has more than 2500 registered users and has been extensively cross-checked and  verified.",
+    "homepage" : "https://bt.pa.msu.edu/index_cosy.htm",
+    "institutions" : ["Michigan State University"],
+    "institution_link" : "https://msu.edu/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "https://bt.pa.msu.edu/pub/"
+  }
+  ,
+  {
+    "title" : "elegant, Pelegant)",
+    "subtitle" : "",
+    "description" : "elegant is an accelerator code that computes beta functions, matrices, orbits, floor coordinates, amplification factors, dynamic aperture, and more. It does 6-D tracking with matrices and/or canonical integrators, and supports a variety of time-dependent elements. It also does optimization (e.g., matching), including optimization of tracking results. ",
+    "institutions" : ["Argonne National Laboratory, Advanced Photon Source"],
+    "institution_link" : "https://www.aps.anl.gov/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "EPICS Open License",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
 ,
   {
     "title" : "IMPACT",
@@ -82,6 +109,20 @@
     "license" : "BSD",
     "publication" : "J. Qiang, R. Ryne, S. Habib, V. Decyk, “An Object-Oriented Parallel Particle-In-Cell Code for Beam Dynamics Simulation in Linear Accelerators,” Journal of Computational Physics 163 (2000), pp. 434-451.",
     "publication_link" : "https://doi.org/10.1006/jcph.2000.6570"
+  }
+  ,
+  {
+    "title" : "MERLIN++",
+    "subtitle" : "",
+    "description" : "Merlin++ is a C++ charged-particle tracking library developed for the simulation and analysis of complex beam dynamics within high energy particle accelerators.",
+    "homepage" : "https://github.com/Merlin-Collaboration/Merlin/",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "https://github.com/Merlin-Collaboration/Merlin/",
+    "issue_tracker" : "https://github.com/Merlin-Collaboration/Merlin/issues/",
+    "license" : "GPL-2.0",
+    "publication" : "Robert Appleby et al., 'Merlin++, a flexible and feature-rich accelerator physics and particle tracking library'",
+    "publication_link" : "https://arxiv.org/abs/2011.04335"
   }
 ,
   {
