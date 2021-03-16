@@ -15,9 +15,9 @@
   }
 ,
   {
-    "title" : "ASTRA)",
-    "subtitle" : "",
-    "description" : "ASTRA is...",
+    "title" : "ASTRA",
+    "subtitle" : "A Space charge TRacking Algorithm",
+    "description" : "The Astra suite consists of the particle tracking code together with an input distribution generator and several graphical user interface post-processors. It has been extensively in the framework of photoinjector designs and benchmarking of experimental data.",
     "homepage" : "https://www.desy.de/~mpyflo/",
     "institutions" : ["DESY"],
     "institution_link" : "https://www.desy.de/",
@@ -29,23 +29,23 @@
   }
 ,
   {
-    "title" : "BDSIM)",
-    "subtitle" : "",
-    "description" : "BDSIM is...",
+    "title" : "BDSIM",
+    "subtitle" : "An accelerator tracking code with particle–matter interactions",
+    "description" : "Beam Delivery Simulation (BDSIM) is a program that simulates the passage of particles in a particle accelerator. It uses a suite of standard high energy physics codes (Geant4, ROOT and CLHEP) to create a computational model of a particle accelerator that combines accurate accelerator tracking routines with all of the physics processes of particles in Geant4.",
     "homepage" : "https://twiki.ph.rhul.ac.uk/twiki/bin/view/PP/JAI/BdSim",
     "institutions" : ["TBD"],
     "institution_link" : "TBD",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
     "license" : "TBD",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "publication" : "L. J. Nevay et al., 'BDSIM: An accelerator tracking code with particle–matter interactions'",
+    "publication_link" : "https://doi.org/10.1016/j.cpc.2020.107200"
   }
 ,
 {
     "title" : "Bmad",
-    "subtitle" : "fancy subtitle",
-    "description" : "An object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings.",
+    "subtitle" : "",
+    "description" : "Bmad is an object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings.",
     "homepage" : "https://www.classe.cornell.edu/bmad/",
     "institutions" : ["Cornell University"],
     "institution_link" : "https://www.cornell.edu",
@@ -166,6 +166,34 @@
     "license" : "TBD",
     "publication" : "A paper citation",
     "publication_link" : "https://doi.org/DOIHERE"
+  }
+  ,
+  {
+    "title" : "OCELOT)",
+    "subtitle" : "Accelerator, radiation and x-ray optics simulation framework",
+    "description" : "Ocelot is a multiphysics simulation toolkit designed for studying FEL and storage ring-based light sources. Ocelot is written in Python. Its central concept is the writing of python's scripts for simulations with the usage of Ocelot's modules and functions and the standard Python libraries.",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "https://github.com/ocelot-collab/ocelot/",
+    "issue_tracker" : "https://github.com/ocelot-collab/ocelot/issues/",
+    "license" : "GPL-3.0",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "OPA",
+    "subtitle" : "Lattice Design Code",
+    "description" : "The main purpose of the OPA code is to support the development of electron (positron) storage rings. Emphasis is on visualization and interactivity rather than on elaborate beam dynamics models. OPA is in particular useful for designing high brightness light source lattices, but may be used for transfer lines and other types of lattices as well. ",
+    "homepage" : "https://ados.web.psi.ch/opa/",
+    "institutions" : ["Paul Scherrer Institute, Accelerator Development and Operations Support Group"],
+    "institution_link" : "https://ados.web.psi.ch/opa/",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
   }
   ,
   {
