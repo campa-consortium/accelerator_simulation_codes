@@ -112,9 +112,9 @@
   }
   ,
   {
-        "title" : "MAD8 and MAD-X (includes PTC)",
+        "title" : "MAD (including MAD8, MAD-X, and MAD-NG)",
     "subtitle" : "Methodical Accelerator Design",
-    "description" : "MAD-X is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
+    "description" : "MAD is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
     "homepage" : "http://mad.web.cern.ch/mad/",
     "institutions" : ["Conseil Européen pour la Recherche Nucléaire (CERN)"],
     "institution_link" : "https://home.cern/",
@@ -195,6 +195,104 @@
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
+,
+  {
+    "title" : "OPAL",
+    "subtitle" : "Object Oriented Parallel Accelerator Library",
+    "description" : "OPAL is a parallel open source tool for charged-particle optics in linear accelerators and rings, including 3D space charge.",
+    "homepage" : "https://gitlab.psi.ch/OPAL/src/-/wikis/home/",
+    "institutions" : ["Paul Scherrer Institute, Accelerator Development and Operations Support Group"],
+    "institution_link" : "https://ados.web.psi.ch/opa/",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "PLACET",
+    "subtitle" : "",
+    "description" : "The tracking code PLACET simulates beam transport and orbit corrections in linear accelerators. It incorporates single- and multi-bunch effects, static and dynamic imperfections.",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "A. Latina et al., 'Evolution of the tracking code PLACET'",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "Propaga",
+    "subtitle" : "",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "PTC",
+    "subtitle" : "Polymorphic Tracking Code",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "SAD",
+    "subtitle" : "TBD",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "SAMM",
+    "subtitle" : "TBD",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
+  ,
+  {
+    "title" : "SixTrack",
+    "subtitle" : "TBD",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+  }
   ,
   {
     "title" : "Warp",
@@ -208,5 +306,19 @@
     "license" : "BSD-3-Clause-LBNL",
     "publication" : "A. Friedman, R. H. Cohen, D. P. Grote, S. M. Lund, W. M. Sharp, J.-L. Vay, I. Haber, and R. A. Kishek, 'Computational Methods in the Warp Code Framework for Kinetic Simulations of Particle Beams and Plasmas,' IEEE Trans. Plasma Sci. vol. 42, no. 5, p. 1321 (May 2014)",
     "publication_link" : "https://doi.org/10.1109/TPS.2014.2308546"
+  }
+  ,
+  {
+    "title" : "ZGOUBI",
+    "subtitle" : "TBD",
+    "description" : "TBD",
+    "homepage" : "TBD",
+    "institutions" : ["TBD"],
+    "institution_link" : "TBD",
+    "repository" : "TBD",
+    "issue_tracker" : "TBD",
+    "license" : "TBD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
   }
 ]}
