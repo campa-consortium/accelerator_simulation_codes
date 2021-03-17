@@ -7,7 +7,7 @@ Contributions to the file `codes.json`, in which we list accelerator simulation 
 
 ## Keywords (Schema)
 
-In order to parse the table efficiently, we apply a common [schema]() to the database
+In order to parse the table efficiently, we apply a common schema.
 Please use the following keywords for each entry in `codes.json`:
 
 
@@ -25,4 +25,4 @@ Please use the following keywords for each entry in `codes.json`:
 | `publication`       | No       | The preferred citation by the code authors                          |
 | `publication_link`  | No       | An URL, ideally a `https://doi.org/<DOI>`, to the publication above |
 
-The file `schema.json` ([JSON schema](https://json-schema.org/) is used to programatically check the schema to a reasonable extent.
+The file `schema.json` ([JSON schema](https://json-schema.org/) is used to programatically check the schema once entries are changed.
