@@ -334,8 +334,8 @@
     "license" : "Open/GPLv3+",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Architect",
     "subtitle" : "TBD/",
@@ -348,8 +348,8 @@
     "license" : "Open/GPL",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Calder",
     "subtitle" : "TBD/",
@@ -362,8 +362,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Calder-Circ",
     "subtitle" : "TBD/",
@@ -376,8 +376,8 @@
     "license" : "Upon Request/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "CHIMERA",
     "subtitle" : "TBD/",
@@ -390,8 +390,8 @@
     "license" : " Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "ELMIS",
     "subtitle" : "TBD/",
@@ -404,8 +404,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "EPOCH",
     "subtitle" : "TBD/",
@@ -418,8 +418,8 @@
     "license" : "Collaborators/GPL",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "FBPIC",
     "subtitle" : "TBD/",
@@ -432,8 +432,8 @@
     "license" : "Open/modified BSD",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "HiPACE",
     "subtitle" : "TBD/",
@@ -446,8 +446,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "INF&RNO",
     "subtitle" : "TBD/",
@@ -460,8 +460,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "LCODE",
     "subtitle" : "TBD/",
@@ -474,8 +474,8 @@
     "license" : "Open/None",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "LSP",
     "subtitle" : "TBD/",
@@ -488,8 +488,8 @@
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "MAGIC",
     "subtitle" : "TBD/",
@@ -502,8 +502,8 @@
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Osiris",
     "subtitle" : "TBD/",
@@ -516,8 +516,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "PHOTON-PLASMA",
     "subtitle" : "TBD/",
@@ -530,8 +530,8 @@
     "license" : "Open/GPLv2",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "PICADOR",
     "subtitle" : "TBD/",
@@ -544,8 +544,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "PIConGPU",
     "subtitle" : "TBD/",
@@ -558,8 +558,8 @@
     "license" : "Open/GPLv3+",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "PICLS",
     "subtitle" : "TBD/",
@@ -572,8 +572,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "PSC",
     "subtitle" : "TBD/",
@@ -586,8 +586,8 @@
     "license" : "Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "QuickPIC",
     "subtitle" : "TBD/",
@@ -600,8 +600,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "REMP",
     "subtitle" : "TBD/",
@@ -614,8 +614,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Smilei",
     "subtitle" : "TBD/",
@@ -628,8 +628,8 @@
     "license" : "Open/CeCILL",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "TurboWave",
     "subtitle" : "TBD/",
@@ -642,8 +642,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "UPIC-EMMA",
     "subtitle" : "TBD/",
@@ -656,8 +656,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "VLPL",
     "subtitle" : "TBD/",
@@ -670,8 +670,8 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "VPIC",
     "subtitle" : "TBD/",
@@ -684,8 +684,8 @@
     "license" : "Open/BSD clause-3 license",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "VSim (Vorpal)",
     "subtitle" : "TBD/",
@@ -698,8 +698,8 @@
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
+  ,
   {
     "title" : "Wake",
     "subtitle" : "TBD/",
@@ -712,6 +712,5 @@
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
-,
   }
 ]}
