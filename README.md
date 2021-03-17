@@ -4,3 +4,25 @@
 This is a community database of accelerator simulation codes.
 
 Contributions to the file `codes.json`, in which we list accelerator simulation codes, are welcome!
+
+## Keywords (Schema)
+
+In order to parse the table efficiently, we apply a common [schema]() to the database
+Please use the following keywords for each entry in `codes.json`:
+
+
+| Key                 | Required | Description                                                         |
+|---------------------|----------|---------------------------------------------------------------------|
+| `title`             | Yes      | Title of the code                                                   |
+| `subtitle`          | No       | Subtitle of the code                                                |
+| `description`       | Yes      | A short description (<=300 characters)                              |
+| `homepage`          | Yes      | An URL to the homepage                                              |
+| `institutions`      | No       | A list of institutions (full names)                                 |
+| `institution_link`  | No       | An URL to the primary institution / project head                    |
+| `repository`        | No       | An URL to the primary source code repository                        |
+| `issue_tracker`     | No       | An URL to the primary issue tracker                                 |
+| `license`           | Yes      | The [SPDX license identifier](https://spdx.org/licenses/)           |
+| `publication`       | No       | The preferred citation by the code authors                          |
+| `publication_link`  | No       | An URL, ideally a `https://doi.org/<DOI>`, to the publication above |
+
+The file `schema.json` ([JSON schema](https://json-schema.org/) is used to programatically check the schema to a reasonable extent.
