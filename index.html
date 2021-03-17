@@ -104,12 +104,13 @@
             letter-spacing: 0.03em;
             font-weight: bold;
           }
+          .title-wrap {
+            flex-basis: 25%;
+          }
           .title {
-            flex-basis: 15%;
             font-weight: bold;
           }
           .subtitle {
-            flex-basis: 10%;
             font-style: italic;
           }
           .description {
@@ -117,6 +118,7 @@
           }
           .license {
             flex-basis: 10%;
+            word-break: break-all;
           }
           .more {
             flex-basis: 5%;
@@ -129,10 +131,10 @@
             li {
               display: block;
             }
-            .title, .subtitle, .description, .license, .more {
+            .titlewrap, .description, .license, .more {
               flex-basis: 100%;
             }
-            .title, .subtitle, .description, .license, .more {
+            .title, .description, .license, .more {
               display: flex;
               padding: 10px 0;
               &:before {
@@ -157,9 +159,9 @@
     <script type="text/javascript">
       // load JSON
       var xmlhttp = new XMLHttpRequest();
-      //var url = "codes.json;
+      var url = "codes.json;
       // development:
-      var url = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json";
+      //var url = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json";
 
       xmlhttp.onreadystatechange = function() {
         //console.log(xmlhttp);
@@ -174,6 +176,8 @@
           add_entry = function(value) {
             var entry = document.createElement("li");
             // create HTML objects
+            var titlewrap = document.createElement("div");
+            titlewrap.classList.add("title-wrap");
             var title = document.createElement("div");
             title.classList.add("title");
             var subtitle = document.createElement("div");
@@ -194,8 +198,6 @@
             title.innerHTML = value["title"];
             if (value["subtitle"])
                 subtitle.innerHTML = value["subtitle"];
-            else
-                subtitle.innerHTML = " ";
             description.innerHTML = value["description"];
             license.innerHTML = value["license"];
             if (value["homepage"] != "Homepage") {
@@ -207,8 +209,9 @@
             }
 
             // attach
-            entry.appendChild(title);
-            entry.appendChild(subtitle);
+            entry.appendChild(titlewrap);
+            titlewrap.appendChild(title);
+            titlewrap.appendChild(subtitle);
             entry.appendChild(description);
             entry.appendChild(license);
             if (moreb) {
