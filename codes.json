@@ -51,7 +51,7 @@
     "institution_link" : "https://www.cornell.edu",
     "repository" : "https://github.com/...",
     "issue_tracker" : "https://github.com/...",
-    "license" : "open source",
+    "license" : "open",
     "publication" : "A paper citation",
     "publication_link" : "https://doi.org/DOIHERE"
   }
