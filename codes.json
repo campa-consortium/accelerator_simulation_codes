@@ -321,4 +321,397 @@
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
+  ,
+  {
+    "title" : "ALaDyn/PICCANTE",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://aladyn.github.io/piccante",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/GPLv3+",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Architect",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "https://github.com/albz/Architect",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/GPL",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Calder",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://iopscience.iop.org/article/10.1088/0029-5515/43/7/317",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Calder-Circ",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1016/j.jcp.2008.11.017",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Upon Request/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "CHIMERA",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "https://github.com/hightower8083/chimera",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : " Open/GPLv3",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "ELMIS",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.diva-portal.org/smash/record.jsf?pid=diva2\%3A681092&dswid=-8610",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "EPOCH",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : " http://www.ccpp.ac.uk/codes.html",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/GPL",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "FBPIC",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "https://fbpic.github.io",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/modified BSD",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "HiPACE",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1088/0741-3335/56/8/084012",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "INF&RNO",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1063/1.3520323",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "LCODE",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.inp.nsk.su/~lotov/lcode",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/None",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "LSP",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.lspsuite.com/LSP/index.html",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Commercial/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "MAGIC",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.mrcwdc.com/magic/index.html",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Commercial/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Osiris",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://picksc.idre.ucla.edu/software/software-production-codes/osiris",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "PHOTON-PLASMA",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "https://bitbucket.org/thaugboelle/ppcode",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/GPLv2",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "PICADOR",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://hpc-education.unn.ru/en/research/overview/laser-plasma",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "PIConGPU",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://picongpu.hzdr.de",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/GPLv3+",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "PICLS",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1016/j.jcp.2008.03.043",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "PSC",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.sciencedirect.com/science/article/pii/S0021999116301413",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/GPLv3",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "QuickPIC",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://picksc.idre.ucla.edu/software/software-production-codes/quickpic",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "REMP",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1016/S0010-4655(00)00228-9",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Smilei",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.maisondelasimulation.fr/projects/Smilei/html/licence.html",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/CeCILL",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "TurboWave",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1109/27.893300",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "UPIC-EMMA",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://picksc.idre.ucla.edu/software/software-production-codes/upic-emma",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "VLPL",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://www.tp1.hhu.de/~pukhov/",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "VPIC",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://github.com/losalamos/vpic",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Open/BSD clause-3 license",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "VSim (Vorpal)",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "https://txcorp.com/vsim",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Commercial/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
+  {
+    "title" : "Wake",
+    "subtitle" : "TBD/",
+    "description" : "TBD/",
+    "homepage" : "http://dx.doi.org/10.1063/1.872134",
+    "institutions" : ["TBD/"],
+    "institution_link" : "TBD/",
+    "repository" : "TBD/",
+    "issue_tracker" : "TBD/",
+    "license" : "Collaborators/Proprietary",
+    "publication" : "TBD",
+    "publication_link" : "TBD"
+,
+  }
 ]}
