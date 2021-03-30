@@ -16,6 +16,10 @@ Please use the following keywords for each entry in `codes.json`:
 | `title`             | Yes      | Title of the code                                                   |
 | `subtitle`          | No       | Subtitle of the code                                                |
 | `description`       | Yes      | A short description (<=300 characters)                              |
+| `application`       | No       | Keywords (tags): list of application areas                          |
+| `compute`           | No       | Keywords (tags): list of computational features                     |
+| `method`            | No       | Keywords (tags): list of mathematical models & numerical methods    |
+| `phenomena`         | No       | Keywords (tags): list of physical phenomena                         |
 | `homepage`          | Yes      | An URL to the homepage                                              |
 | `institutions`      | No       | A list of institutions (full names)                                 |
 | `institution_link`  | No       | An URL to the primary institution / project head                    |
