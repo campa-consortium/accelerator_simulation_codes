@@ -19,6 +19,7 @@
           "institutions": {"type": "array"},
           "institution_link": {"type": "string"},
           "repository": {"type": "string"},
+          "download_link": {"type": "string"},
           "issue_tracker": {"type": "string"},
           "license": {"type": "string"},
           "publication": {"type": "string"},
