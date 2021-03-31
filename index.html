@@ -152,7 +152,31 @@
   <body>
     <h1>Particle Accelerator Simulation Codes</h1>
     Database: <a href="codes.json" target="_blank">download</a> and
-    <a href="https://github.com/campa-consortium/accelerator_simulation_codes" target="_blank">repository</a>.
+    <a href="https://github.com/campa-consortium/accelerator_simulation_codes" target="_blank">contributable repository</a>.
+
+    <form onsubmit="/* myFunction();*/ return false;">
+      <em>Filter by:</em>
+
+      <label for="application">Application area</label>
+      <select name="application" id="application">
+        <option value="all">all</option>
+      </select>
+
+      <label for="compute">Computational Features</label>
+      <select name="compute" id="compute">
+        <option value="all">all</option>
+      </select>
+
+      <label for="method">Mathematical Models & Numerical Methods</label>
+      <select name="method" id="method">
+        <option value="all">all</option>
+      </select>
+
+      <label for="phenomena">Physical Phenomena</label>
+      <select name="phenomena" id="phenomena">
+        <option value="all">all</option>
+      </select>
+    </form>
 
     <ul class="tilesWrap" id="list"></ul>
 
@@ -203,7 +227,7 @@
             if (value["homepage"] != "Homepage") {
                 more.href = value["homepage"];
                 more.target = '_blank';
-                moreb.innerHTML = "Read more";
+                moreb.innerHTML = "Homepage";
             } else {
                 more.innerHTML = "Info";
             }
