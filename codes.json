@@ -65,11 +65,11 @@
     "homepage" : "https://www.classe.cornell.edu/bmad/",
     "institutions" : ["Cornell University"],
     "institution_link" : "https://www.cornell.edu",
-    "repository" : "https://github.com/...",
-    "issue_tracker" : "https://github.com/...",
-    "license" : "open",
-    "publication" : "A paper citation",
-    "publication_link" : "https://doi.org/DOIHERE"
+    "download_link" : "https://www.classe.cornell.edu/~cesrulib/downloads/tarballs/",
+    "issue_tracker" : "https://github.com/DavidSagan/Bmad/issues",
+    "license" : "GNU General Pubilc License Version 3",
+    "publication" : "Bmad: A relativistic charged particle simulation library",
+    "publication_link" : "https://www.sciencedirect.com/science/article/abs/pii/S0168900205020371?via%3Dihub"
   }
 ,
   {
