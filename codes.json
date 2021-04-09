@@ -886,7 +886,7 @@
     "title" : "USim (Ulixes)",
     "subtitle" : "High-performance, 3-Dimensional, finite-volume fluid simulation framework for simulation of plasmas with electrodynamics including shocks.",
     "description" : "Computational Fluid Dynamics (CFD) code optimized for modeling plasmas, including High Energy Density (HED) and plasma-based particle sources.",
-    "application": ["High Energy Density Plasmas", "Z-Pinch", "Ion Sources" "Hypersonics"],
+    "application": ["High Energy Density Plasmas", "Z-Pinch", "Ion Sources", "Hypersonics"],
     "compute": ["1-, 2-, 3-Dimensional", "Structured and Unstructured Computational Meshes", "Parallel (MPI)"],
     "method": ["Finite-Volume Fluids", "Conformal Boundaries", "Discontinuous Galerkin", "Plasma Chemistry"],
     "phenomena": [],
