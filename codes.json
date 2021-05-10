@@ -55,9 +55,9 @@
   }
 ,
 {
-    "title" : "Bmad",
+    "title" : "Bmad / Tao ",
     "subtitle" : "",
-    "description" : "Bmad is an object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings.",
+    "description" : "Bmad is an object oriented, open source, subroutine library for relativistic charged-particle dynamics simulations in accelerators and storage rings. Bmad has modules for computing Twiss parameters, transport maps, dynamic apertures, and more. Tao is a general purpose simulation program, similar to MAD and Elegant in scope, which uses Bmad as its calculational engine. In addition, Tao is constructed in an object oriented fashion to make it relatively easy to extend its functionality.",
     "application": [],
     "compute": [],
     "method": [],
@@ -307,19 +307,19 @@
   }
   ,
   {
-    "title" : "PTC",
+    "title" : "PTC/FPP",
     "subtitle" : "Polymorphic Tracking Code",
-    "description" : "TBD",
+    "description" : "Simulation library developed by Etienne Forest. Is capable of constructing Taylor maps to arbitrary order. Has modules for normal form analysis. PTC/FPP is used by both Bmad and MADX.",
     "application": [],
     "compute": [],
     "method": [],
     "phenomena": [],
-    "homepage" : "TBD",
-    "institutions" : ["TBD"],
-    "institution_link" : "TBD",
-    "repository" : "TBD",
-    "issue_tracker" : "TBD",
-    "license" : "TBD",
+    "homepage" : "None",
+    "institutions" : ["KEK"],
+    "institution_link" : "https://www.kek.jp/",
+    "repository" : "https://github.com/jceepf/fpp_book.git",
+    "issue_tracker" : "None",
+    "license" : "Open source",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
