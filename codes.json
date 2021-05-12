@@ -437,6 +437,25 @@
   }
   ,
   {
+    "title" : "WarpX",
+    "subtitle" : "WarpX is an advanced electromagnetic Particle-In-Cell code.",
+    "description" : "WarpX is an advanced electromagnetic Particle-In-Cell code for Exascale. It supports many features including Perfectly-Matched Layers (PML), mesh refinement, and the boosted-frame technique.",
+    "homepage" : "https://ecp-warpx.github.io",
+    "application": [],
+    "compute": [],
+    "method": [],
+    "phenomena": [],
+    "institutions" : ["Lawrence Berkeley National Laboratory", "Lawrence Livermore National Laboratory", "SLAC National Accelerator Laboratory"],
+    "institution_link" : "https://www.lbl.gov",
+    "repository" : "https://github.com/ECP-WarpX/WarpX",
+    "issue_tracker" : "https://github.com/ECP-WarpX/WarpX/issues",
+    "platform": ["linux", "mac", "windows"],
+    "license" : "BSD-3-Clause-LBNL",
+    "publication" : "J.-L. Vay, A. Huebl, A. Almgren, L. D. Amorim, J. Bell, L. Fedeli, L. Ge, K. Gott, D. P. Grote, M. Hogan, R. Jambunathan, R. Lehe, A. Myers, C. Ng, M. Rowan, O. Shapoval, M. Thevenet, H. Vincenti, E. Yang, N. Zaim, W. Zhang, Y. Zhao, and E. Zoni, 'Modeling of a chain of three plasma accelerator stages with the WarpX electromagnetic PIC code on GPUs,' Physics of Plasmas 28, 023105 (2021)",
+    "publication_link" : "https://doi.org/10.1063/5.0028512"
+  }
+  ,
+  {
     "title" : "ZGOUBI",
     "subtitle" : "",
     "description" : "zgoubi is a ray-tracing code in use for charged particle beam dynamics simulations. It can simulate beam dynamics in a large variety of machines and optical systems.",
