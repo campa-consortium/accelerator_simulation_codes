@@ -114,7 +114,10 @@
             font-style: italic;
           }
           .description {
-            flex-basis: 50%;
+            flex-basis: 45%;
+          }
+          .platform {
+            flex-basis: 5%;
           }
           .license {
             flex-basis: 10%;
@@ -131,10 +134,10 @@
             li {
               display: block;
             }
-            .titlewrap, .description, .license, .more {
+            .titlewrap, .description, .platform, .license, .more {
               flex-basis: 100%;
             }
-            .title, .description, .license, .more {
+            .title, .description, .platform, .license, .more {
               display: flex;
               padding: 10px 0;
               &:before {
@@ -208,6 +211,8 @@
             subtitle.classList.add("subtitle");
             var description = document.createElement("div");
             description.classList.add("description");
+            var platform = document.createElement("div");
+            platform.classList.add("platform");
             var license = document.createElement("div");
             license.classList.add("license");
             if (value["homepage"] != "Homepage") {
@@ -223,6 +228,18 @@
             if (value["subtitle"])
                 subtitle.innerHTML = value["subtitle"];
             description.innerHTML = value["description"];
+            platform.innerHTML = "";
+            var platform_emoji = {
+              "linux": "🐧", "mac": "🍏", "windows": "W"
+            };
+            if(Array.isArray(value["platform"])) {
+                for (var plat of value["platform"]) {
+                    plat_replaced = ((plat in platform_emoji) ? platform_emoji[plat] : plat);
+                    platform.innerHTML = platform.innerHTML.concat(plat_replaced);
+                }
+            } else {
+                platform.innerHTML = value["platform"];
+            }
             license.innerHTML = value["license"];
             if (value["homepage"] != "Homepage") {
                 more.href = value["homepage"];
@@ -237,6 +254,7 @@
             titlewrap.appendChild(title);
             titlewrap.appendChild(subtitle);
             entry.appendChild(description);
+            entry.appendChild(platform);
             entry.appendChild(license);
             if (moreb) {
                 more.appendChild(moreb);
@@ -250,6 +268,7 @@
             "title": "Code",
             "subtitle": "",
             "description": "Description",
+            "platform": "Platform",
             "license": "License",
             "homepage": "Homepage"
           });
