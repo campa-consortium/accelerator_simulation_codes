@@ -25,6 +25,7 @@ Please use the following keywords for each entry in `codes.json`:
 | `institution_link`  | No       | An URL to the primary institution / project head                    |
 | `repository`        | No       | An URL to the primary source code repository                        |
 | `issue_tracker`     | No       | An URL to the primary issue tracker                                 |
+| `platform`          | No       | List for: `linux`, `mac`, `windows`                                 |
 | `license`           | Yes      | The [SPDX license identifier](https://spdx.org/licenses/) or "freeware", "proprietary", "collaborators/MoU", or "unknown", as appropriate |
 | `publication`       | No       | The preferred citation by the code authors                          |
 | `publication_link`  | No       | An URL, ideally a `https://doi.org/<DOI>`, to the publication above |

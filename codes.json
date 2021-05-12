@@ -13,6 +13,7 @@
     "institution_link" : "TBD",
     "repository" : "https://github.com/atcollab/at/, https://atcollab.github.io/at/",
     "issue_tracker" : "https://github.com/atcollab/at/issues/",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -31,6 +32,7 @@
     "institution_link" : "https://www.desy.de/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "freeware (NC)",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -49,6 +51,7 @@
     "institution_link" : "TBD",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "TBD",
     "publication" : "L. J. Nevay et al., 'BDSIM: An accelerator tracking code with particle–matter interactions'",
     "publication_link" : "https://doi.org/10.1016/j.cpc.2020.107200"
@@ -67,6 +70,7 @@
     "institution_link" : "https://www.cornell.edu",
     "download_link" : "https://www.classe.cornell.edu/~cesrulib/downloads/tarballs/",
     "issue_tracker" : "https://github.com/DavidSagan/Bmad/issues",
+    "platform": [],
     "license" : "GNU General Pubilc License Version 3",
     "publication" : "Bmad: A relativistic charged particle simulation library",
     "publication_link" : "https://www.sciencedirect.com/science/article/abs/pii/S0168900205020371?via%3Dihub"
@@ -85,6 +89,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "https://github.com/beam-beam/BeamBeam3D",
     "issue_tracker" : "https://github.com/beam-beam/BeamBeam3D/issues",
+    "platform": [],
     "license" : "BSD-3-Clause-LBNL",
     "publication" : "J. Qiang, M.A. Furman, and R. D. Ryne, 'A parallel particle-in-cell model for beam-beam interaction in high energy ring colliders,' J. Comp. Phys. 198 (2004) ",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2004.01.008"
@@ -103,6 +108,7 @@
     "institution_link" : "https://msu.edu/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "https://bt.pa.msu.edu/pub/"
@@ -120,6 +126,7 @@
     "institution_link" : "https://www.aps.anl.gov/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "EPICS Open License",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -138,6 +145,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "https://github.com/impact-lbl/IMPACT-Z",
     "issue_tracker" : "https://github.com/impact-lbl/IMPACT-Z/issues",
+    "platform": [],
     "license" : "BSD",
     "publication" : "J. Qiang, R. Ryne, S. Habib, V. Decyk, “An Object-Oriented Parallel Particle-In-Cell Code for Beam Dynamics Simulation in Linear Accelerators,” Journal of Computational Physics 163 (2000), pp. 434-451.",
     "publication_link" : "https://doi.org/10.1006/jcph.2000.6570"
@@ -156,6 +164,7 @@
     "institution_link" : "https://home.cern/",
     "repository" : "https://github.com/MethodicalAcceleratorDesign/MAD-X",
     "issue_tracker" : "https://github.com/MethodicalAcceleratorDesign/MAD-X/issues",
+    "platform": [],
     "license" : "SDDS",
     "publication" : "H. Grote and F. Schmidt, 'MAD-X - An Upgrade from MAD8', Proceedings of the 2003 Particle Accelerator Conference, Vol. 5, 3497-3499 - 2003",
     "publication_link" : "https://doi.org/10.1109/pac.2003.1289960"
@@ -175,6 +184,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "https://github.com/...",
     "issue_tracker" : "https://github.com/...",
+    "platform": [],
     "license" : "TBD",
     "publication" : "A paper citation",
     "publication_link" : "https://doi.org/DOIHERE"
@@ -193,6 +203,7 @@
     "institution_link" : "TBD",
     "repository" : "https://github.com/Merlin-Collaboration/Merlin/",
     "issue_tracker" : "https://github.com/Merlin-Collaboration/Merlin/issues/",
+    "platform": [],
     "license" : "GPL-2.0",
     "publication" : "Robert Appleby et al., 'Merlin++, a flexible and feature-rich accelerator physics and particle tracking library'",
     "publication_link" : "https://arxiv.org/abs/2011.04335"
@@ -229,6 +240,7 @@
     "institution_link" : "TBD",
     "repository" : "https://github.com/ocelot-collab/ocelot/",
     "issue_tracker" : "https://github.com/ocelot-collab/ocelot/issues/",
+    "platform": [],
     "license" : "GPL-3.0",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -247,6 +259,7 @@
     "institution_link" : "https://ados.web.psi.ch/opa/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -265,6 +278,7 @@
     "institution_link" : "https://ados.web.psi.ch/opa/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -283,6 +297,7 @@
     "institution_link" : "TBD",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "A. Latina et al., 'Evolution of the tracking code PLACET'",
     "publication_link" : "TBD"
@@ -301,6 +316,7 @@
     "institution_link" : "TBD",
     "repository" : "https://github.com/ALaDyn/Propaga/",
     "issue_tracker" : "https://github.com/ALaDyn/Propaga/issues/",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -319,6 +335,7 @@
     "institution_link" : "https://www.kek.jp/",
     "repository" : "https://github.com/jceepf/fpp_book.git",
     "issue_tracker" : "None",
+    "platform": [],
     "license" : "Open source",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -337,6 +354,7 @@
     "institution_link" : "https://www.kek.jp/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -355,6 +373,7 @@
     "institution_link" : "TBD",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -373,6 +392,7 @@
     "institution_link" : "https://home.cern/",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "De Maria, R., et al. ‘SixTrack Version 5: Status and New Developments’. In Proceedings of IPAC 2019, 3200–3203. Melbourne, Australia",
     "publication_link" : "DOI:10.18429/JACoW-IPAC2019-WEPTS043"
@@ -391,6 +411,7 @@
     "institution_link" : "https://computing.fnal.gov/",
     "repository" : "https://bitbucket.com/fnalacceleratormodeling/synergia2",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "GPL",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -409,6 +430,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "https://bitbucket.org/berkeleylab/warp",
     "issue_tracker" : "https://bitbucket.org/berkeleylab/warp/issues",
+    "platform": ["linux"],
     "license" : "BSD-3-Clause-LBNL",
     "publication" : "A. Friedman, R. H. Cohen, D. P. Grote, S. M. Lund, W. M. Sharp, J.-L. Vay, I. Haber, and R. A. Kishek, 'Computational Methods in the Warp Code Framework for Kinetic Simulations of Particle Beams and Plasmas,' IEEE Trans. Plasma Sci. vol. 42, no. 5, p. 1321 (May 2014)",
     "publication_link" : "https://doi.org/10.1109/TPS.2014.2308546"
@@ -427,6 +449,7 @@
     "institution_link" : "TBD",
     "repository" : "https://zgoubi.sourceforge.io/",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "GPLv2",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -445,6 +468,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/GPLv3+",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -463,6 +487,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/GPL",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -481,6 +506,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -499,6 +525,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Upon Request/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -517,6 +544,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : " Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -535,6 +563,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -553,6 +582,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/GPL",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -571,6 +601,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/modified BSD",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -589,6 +620,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -607,6 +639,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -625,6 +658,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/None",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -643,6 +677,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -661,6 +696,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -679,6 +715,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -697,6 +734,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/GPLv2",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -715,6 +753,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -733,6 +772,7 @@
     "institution_link" : "https://www.hzdr.de",
     "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
     "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues",
+    "platform": [],
     "license" : "GPLv3+",
     "publication" : "M. Bussmann et al., 'Radiative Signatures of the Relativistic Kelvin-Helmholtz Instability,' Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (SC13), 2013",
     "publication_link" : "https://doi.org/10.1145/2503210.2504564"
@@ -751,6 +791,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -769,6 +810,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -787,6 +829,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -805,6 +848,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -823,6 +867,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/CeCILL",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -841,6 +886,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -859,6 +905,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -877,6 +924,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -895,6 +943,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Open/BSD clause-3 license",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -913,6 +962,7 @@
     "institution_link" : "https://txcorp.com",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "Commercial/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -931,6 +981,7 @@
     "institution_link" : "https://txcorp.com",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "Commercial/Proprietary",
     "publication" : "C. Nieter and J.R. Cary, 'VORPAL: A Versatile Plasma Simulation Code', J. Comput. Phys., 196, pp. 448-473, 2004.",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2003.11.004"
@@ -949,6 +1000,7 @@
     "institution_link" : "TBD/",
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
+    "platform": [],
     "license" : "Collaborators/Proprietary",
     "publication" : "TBD",
     "publication_link" : "TBD"
