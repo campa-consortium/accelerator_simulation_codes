@@ -222,6 +222,7 @@
     "institution_link" : "https://www.lbl.gov",
     "repository" : "TBD",
     "issue_tracker" : "TBD",
+    "platform": [],
     "license" : "TBD",
     "publication" : "M. A. Furman and M. T. F. Pivi, 'Probabilistic model for the simulation of secondary electron emission,'Phys. Rev. ST Accel. Beams 5, 124404.",
     "publication_link" : "https://doi.org/10.1103/PhysRevSTAB.5.124404"
