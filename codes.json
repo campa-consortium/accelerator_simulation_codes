@@ -485,7 +485,7 @@
     "phenomena": [],
     "homepage" : "http://aladyn.github.io/ALaDyn/",
     "institutions" : ["Isituto Nazionale di Fisica Nucleare", "Istituto Nazionale di Ottica", "Universita' di Bologna", "Sapienza Universita' di Roma", "Universita' di Napoli 'Federico II'"],
-    "institution_link" : "",
+    "institution_link" : "https://home.infn.it",
     "repository" : "https://github.com/ALaDyn/ALaDyn",
     "issue_tracker" : "https://github.com/ALaDyn/ALaDyn/issues",
     "platform": ["linux"],
