@@ -476,22 +476,41 @@
   }
   ,
   {
-    "title" : "ALaDyn/PICCANTE",
-    "subtitle" : "TBD/",
-    "description" : "TBD/",
+    "title" : "ALaDyn",
+    "subtitle" : "A High-Accuracy PIC Code for the Maxwell-Vlasov Equations",
+    "description" : "ALaDyn is a fully 3D electromagnetic Particle-in-cell Fortran code. It implements the selfconsistent dynamics of lasers and beams propagation in an underdense plasma and the interaction with solid targets. It is equipped with an explicit envelope solver for the laser dynamics and with a Eulerian fluid equation scheme for the background cold plasma.",
+    "application": [],
+    "compute": [],
+    "method": [],
+    "phenomena": [],
+    "homepage" : "http://aladyn.github.io/ALaDyn/",
+    "institutions" : ["Isituto Nazionale di Fisica Nucleare", "Istituto Nazionale di Ottica", "Universita' di Bologna", "Sapienza Universita' di Roma", "Universita' di Napoli 'Federico II'"],
+    "institution_link" : "",
+    "repository" : "https://github.com/ALaDyn/ALaDyn",
+    "issue_tracker" : "https://github.com/ALaDyn/ALaDyn/issues",
+    "platform": ["linux"],
+    "license" : "Open/GPLv3+",
+    "publication" : "",
+    "publication_link" : "https://aladyn.github.io/Papers/"
+  }
+  ,
+  {
+    "title" : "PICCANTE",
+    "subtitle" : "A spicy massively parallel fully-relativistic electromagnetic 3D particle-in-cell code",
+    "description" : "",
     "application": [],
     "compute": [],
     "method": [],
     "phenomena": [],
     "homepage" : "http://aladyn.github.io/piccante",
-    "institutions" : ["TBD/"],
-    "institution_link" : "TBD/",
-    "repository" : "TBD/",
-    "issue_tracker" : "TBD/",
+    "institutions" : [""],
+    "institution_link" : "",
+    "repository" : "https://github.com/ALaDyn/piccante",
+    "issue_tracker" : "",
     "platform": [],
     "license" : "Open/GPLv3+",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "publication" : "",
+    "publication_link" : ""
   }
   ,
   {
