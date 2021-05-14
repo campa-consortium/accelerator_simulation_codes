@@ -480,7 +480,7 @@
     "subtitle" : "A High-Accuracy PIC Code for the Maxwell-Vlasov Equations",
     "description" : "ALaDyn is a fully 3D electromagnetic Particle-in-cell Fortran code. It implements the selfconsistent dynamics of lasers and beams propagation in an underdense plasma and the interaction with solid targets. It is equipped with an explicit envelope solver for the laser dynamics and with a Eulerian fluid equation scheme for the background cold plasma.",
     "application": ["laser-plasma"],
-    "compute": [],
+    "compute": ["mpi"],
     "method": ["pic"],
     "phenomena": [],
     "homepage" : "http://aladyn.github.io/ALaDyn/",
