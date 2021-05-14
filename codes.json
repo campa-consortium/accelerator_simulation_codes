@@ -481,7 +481,7 @@
     "description" : "ALaDyn is a fully 3D electromagnetic Particle-in-cell Fortran code. It implements the selfconsistent dynamics of lasers and beams propagation in an underdense plasma and the interaction with solid targets. It is equipped with an explicit envelope solver for the laser dynamics and with a Eulerian fluid equation scheme for the background cold plasma.",
     "application": ["laser-plasma"],
     "compute": [],
-    "method": [],
+    "method": ["pic"],
     "phenomena": [],
     "homepage" : "http://aladyn.github.io/ALaDyn/",
     "institutions" : ["Isituto Nazionale di Fisica Nucleare", "Istituto Nazionale di Ottica", "Universita' di Bologna", "Sapienza Universita' di Roma", "Universita' di Napoli 'Federico II'"],
