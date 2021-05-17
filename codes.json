@@ -497,20 +497,20 @@
   {
     "title" : "PICCANTE",
     "subtitle" : "A spicy massively parallel fully-relativistic electromagnetic 3D particle-in-cell code",
-    "description" : "",
-    "application": [],
-    "compute": [],
-    "method": [],
+    "description" : "PICCANTE is a fully 3D electromagnetic Particle-In-Cell code. It was primarily designed to study ultra-intense laser-plasma interaction and simple plasma astrophysics scenarios. It is written in C++.",
+    "application": ["laser-plasma"],
+    "compute": ["mpi"],
+    "method": [pic],
     "phenomena": [],
     "homepage" : "http://aladyn.github.io/piccante",
-    "institutions" : [""],
+    "institutions" : ["Istituto Nazionale di Ottica", "Universita' di Bologna", "Universita' di Pisa"],
     "institution_link" : "",
     "repository" : "https://github.com/ALaDyn/piccante",
     "issue_tracker" : "",
-    "platform": [],
+    "platform": ["linux", "windows"],
     "license" : "Open/GPLv3+",
     "publication" : "",
-    "publication_link" : ""
+    "publication_link" : "https://arxiv.org/abs/1503.02464"
   }
   ,
   {
