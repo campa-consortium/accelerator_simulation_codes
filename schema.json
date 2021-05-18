@@ -17,7 +17,7 @@
           "phenomena": {"type": "array"},
           "homepage": {"type": "string"},
           "institutions": {"type": "array"},
-          "institution_link": {"type": "string"},
+          "institution_link": {"type": "array"},
           "repository": {"type": "string"},
           "download_link": {"type": "string"},
           "issue_tracker": {"type": "string"},
