@@ -22,7 +22,7 @@ Please use the following keywords for each entry in `codes.json`:
 | `phenomena`         | No       | Keywords (tags): list of physical phenomena                         |
 | `homepage`          | Yes      | An URL to the homepage                                              |
 | `institutions`      | No       | A list of institutions (full names)                                 |
-| `institution_link`  | No       | An URL to the primary institution / project head                    |
+| `institution_link`  | No       | A list of urls to the institutions                                  |
 | `repository`        | No       | An URL to the primary source code repository                        |
 | `issue_tracker`     | No       | An URL to the primary issue tracker                                 |
 | `platform`          | No       | List for: `linux`, `mac`, `windows`                                 |
