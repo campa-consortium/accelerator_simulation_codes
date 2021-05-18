@@ -640,7 +640,7 @@
     "institution_link" : ["https://www.lbl.gov", "http://lux.cfel.de"],
     "repository" : "https://github.com/fbpic/fbpic",
     "issue_tracker" : "https://github.com/fbpic/fbpic/issues",
-    "platform": ["linux", "macos", "windows"],
+    "platform": ["linux", "mac", "windows"],
     "license" : "Open/modified BSD",
     "publication" : "R. Lehe, M. Kirchen, I.A. Andriyash, B.B. Godfrey, J.-L. Vay, 'A spectral, quasi-cylindrical and dispersion-free Particle-In-Cell algorithm', Computer Physics Communications 203, pp. 66-82 (2016)",
     "publication_link" : "https://doi.org/10.1016/j.cpc.2016.02.007"
