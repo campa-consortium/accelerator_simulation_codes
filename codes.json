@@ -629,21 +629,21 @@
   ,
   {
     "title" : "FBPIC",
-    "subtitle" : "TBD/",
-    "description" : "TBD/",
-    "application": [],
-    "compute": [],
-    "method": [],
+    "subtitle" : "Fourier-Bessel Particle-In-Cell",
+    "description" : "FBPIC is a specialized electromagnetic Particle-In-Cell code for simulations of laser-wakefield acceleration and plasma-wakefield acceleration, with close-to-cylindrical symmetry. The code can run on multi-CPU and multi-GPU architectures (NVIDIA only), and uses a cylindrical geometry to speed up simulations.",
+    "application": ["laser-plasma"],
+    "compute": ["mpi", "gpu", "openmp"],
+    "method": ["pic"],
     "phenomena": [],
     "homepage" : "https://fbpic.github.io",
-    "institutions" : ["TBD/"],
-    "institution_link" : ["TBD/"],
-    "repository" : "TBD/",
-    "issue_tracker" : "TBD/",
-    "platform": [],
+    "institutions" : ["Lawrence Berkeley National Laboratory", "CFEL, Hamburg University"],
+    "institution_link" : ["https://www.lbl.gov", "http://lux.cfel.de"],
+    "repository" : "https://github.com/fbpic/fbpic",
+    "issue_tracker" : "https://github.com/fbpic/fbpic/issues",
+    "platform": ["linux", "macos", "windows"],
     "license" : "Open/modified BSD",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "publication" : "R. Lehe, M. Kirchen, I.A. Andriyash, B.B. Godfrey, J.-L. Vay, 'A spectral, quasi-cylindrical and dispersion-free Particle-In-Cell algorithm', Computer Physics Communications 203, pp. 66-82 (2016)",
+    "publication_link" : "https://doi.org/10.1016/j.cpc.2016.02.007"
   }
   ,
   {
