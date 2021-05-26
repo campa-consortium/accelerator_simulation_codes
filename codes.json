@@ -450,7 +450,7 @@
     "institution_link" : ["https://www.lbl.gov"],
     "repository" : "https://github.com/ECP-WarpX/WarpX",
     "issue_tracker" : "https://github.com/ECP-WarpX/WarpX/issues",
-    "platform": ["linux", "mac", "windows"],
+    "platform": ["linux", "macos", "windows"],
     "license" : "BSD-3-Clause-LBNL",
     "publication" : "J.-L. Vay, A. Huebl, A. Almgren, L. D. Amorim, J. Bell, L. Fedeli, L. Ge, K. Gott, D. P. Grote, M. Hogan, R. Jambunathan, R. Lehe, A. Myers, C. Ng, M. Rowan, O. Shapoval, M. Thevenet, H. Vincenti, E. Yang, N. Zaim, W. Zhang, Y. Zhao, and E. Zoni, 'Modeling of a chain of three plasma accelerator stages with the WarpX electromagnetic PIC code on GPUs,' Physics of Plasmas 28, 023105 (2021)",
     "publication_link" : "https://doi.org/10.1063/5.0028512"
@@ -640,7 +640,7 @@
     "institution_link" : ["https://www.lbl.gov", "http://lux.cfel.de"],
     "repository" : "https://github.com/fbpic/fbpic",
     "issue_tracker" : "https://github.com/fbpic/fbpic/issues",
-    "platform": ["linux", "mac", "windows"],
+    "platform": ["linux", "macos", "windows"],
     "license" : "Open/modified BSD",
     "publication" : "R. Lehe, M. Kirchen, I.A. Andriyash, B.B. Godfrey, J.-L. Vay, 'A spectral, quasi-cylindrical and dispersion-free Particle-In-Cell algorithm', Computer Physics Communications 203, pp. 66-82 (2016)",
     "publication_link" : "https://doi.org/10.1016/j.cpc.2016.02.007"
@@ -1020,7 +1020,7 @@
     "institution_link" : ["https://txcorp.com"],
     "repository" : "TBD",
     "issue_tracker" : "TBD",
-    "platform": ["linux", "mac", "windows"],
+    "platform": ["linux", "macos", "windows"],
     "license" : "Commercial/Proprietary",
     "publication" : "C. Nieter and J.R. Cary, 'VORPAL: A Versatile Plasma Simulation Code', J. Comput. Phys., 196, pp. 448-473, 2004.",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2003.11.004"
