@@ -31,3 +31,29 @@ Please use the following keywords for each entry in `codes.json`:
 | `publication_link`  | No       | An URL, ideally a `https://doi.org/<DOI>`, to the publication above |
 
 The file `schema.json` ([JSON schema](https://json-schema.org/) is used to programatically check the schema once entries are changed.
+
+## Process the Database
+
+### Python
+
+The `codes.json` file is our central database for all information.
+If you like to process and filter this list for your purpose, you could for instance load the whole list with Python:
+
+```py
+import JSON
+
+codes = json.load(open("codes.json"))["codes"]
+
+type(codes)
+# list: each code is one entry
+type(codes[0])
+# dict: a code entry with keywords as defined above
+
+len(codes)
+# "55" as of 05/26/2021
+```
+
+### Web Endpoints
+
+If you like to dynamically load the `codes.json` file into (web) applications, you can query the latest version from this endpoint:
+https://campa-consortium.github.io/accelerator_simulation_codes/codes.json
