@@ -32,7 +32,7 @@
     "institution_link" : ["https://www.desy.de/"],
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
-    "platform": [],
+    "platform": ["linux", "macos", "windows"],
     "license" : "freeware (NC)",
     "publication" : "TBD",
     "publication_link" : "TBD"
@@ -70,7 +70,7 @@
     "institution_link" : ["https://www.cornell.edu"],
     "download_link" : "https://www.classe.cornell.edu/~cesrulib/downloads/tarballs/",
     "issue_tracker" : "https://github.com/DavidSagan/Bmad/issues",
-    "platform": [],
+    "platform": ["linux", "macos"],
     "license" : "GNU General Pubilc License Version 3",
     "publication" : "Bmad: A relativistic charged particle simulation library",
     "publication_link" : "https://www.sciencedirect.com/science/article/abs/pii/S0168900205020371?via%3Dihub"
@@ -145,7 +145,7 @@
     "institution_link" : ["https://www.lbl.gov"],
     "repository" : "https://github.com/impact-lbl/IMPACT-Z",
     "issue_tracker" : "https://github.com/impact-lbl/IMPACT-Z/issues",
-    "platform": [],
+    "platform": ["linux", "macos", "windows"],
     "license" : "BSD",
     "publication" : "J. Qiang, R. Ryne, S. Habib, V. Decyk, “An Object-Oriented Parallel Particle-In-Cell Code for Beam Dynamics Simulation in Linear Accelerators,” Journal of Computational Physics 163 (2000), pp. 434-451.",
     "publication_link" : "https://doi.org/10.1006/jcph.2000.6570"
@@ -241,7 +241,7 @@
     "institution_link" : ["TBD"],
     "repository" : "https://github.com/ocelot-collab/ocelot/",
     "issue_tracker" : "https://github.com/ocelot-collab/ocelot/issues/",
-    "platform": [],
+    "platform": ["linux", "macos", "windows"],
     "license" : "GPL-3.0",
     "publication" : "TBD",
     "publication_link" : "TBD"
