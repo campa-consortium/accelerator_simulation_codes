@@ -157,7 +157,7 @@
     Database: <a href="codes.json" target="_blank">download</a> and
     <a href="https://github.com/campa-consortium/accelerator_simulation_codes" target="_blank">contributable repository</a>.
 
-    <form onsubmit="/* myFunction();*/ return false;">
+    <form onchange="updateList(filterData(json_codes)); return false;">
       <em>Filter by:</em>
 
       <label for="application">Application area</label>
@@ -179,6 +179,14 @@
       <select name="phenomena" id="phenomena">
         <option value="all">all</option>
       </select>
+
+      <label for="platform">Platform</label>
+      <select name="platform" id="platform">
+        <option value="all">all</option>
+        <option value="all">Linux</option>
+        <option value="all">macOS</option>
+        <option value="all">Windows</option>
+      </select>
     </form>
 
     <ul class="tilesWrap" id="list"></ul>
@@ -188,17 +196,34 @@
       var xmlhttp = new XMLHttpRequest();
       var url = "codes.json";
       // development:
-      //var url = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json";
+      // url = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json";
+      var json_codes = null;
 
-      xmlhttp.onreadystatechange = function() {
-        //console.log(xmlhttp);
-        if (xmlhttp.readyState == 4) { // && xmlhttp.status == 200
-          var data = JSON.parse(xmlhttp.responseText);
-          //console.log(xmlhttp.responseText);
-          //console.log(data);
+      function filterData(data) {
+          if (data === null) { return null; }
+
+          var e = document.getElementById("platform");
+          var platform = e.options[e.selectedIndex].text.toLowerCase();
+          if (platform == "all") return data;
+
+          function checkPlatform(entry) {
+            if(Array.isArray(entry["platform"])) {
+                return (entry["platform"].indexOf(platform) !== -1);
+            }
+          }
+
+          filtered = data.filter(checkPlatform);
+          //console.log(filtered.length);
+
+          return filtered;
+      }
+
+      function updateList(data) {
+          if (data === null) { return; }
 
           // write into our list of codes
           var l = document.getElementById("list");
+          l.innerHTML = "";
 
           add_entry = function(value) {
             var entry = document.createElement("li");
@@ -230,7 +255,7 @@
             description.innerHTML = value["description"];
             platform.innerHTML = "";
             var platform_emoji = {
-              "linux": "🐧", "mac": "🍏", "windows": "W"
+              "linux": "🐧", "macos": "🍏", "windows": "Win"
             };
             if(Array.isArray(value["platform"])) {
                 for (var plat of value["platform"]) {
@@ -275,16 +300,26 @@
           header.classList.add("table-header");
           l.appendChild(header);
 
-          data_sorted = data["codes"].sort(function(a, b){
+          data_sorted = data.sort(function(a, b){
             return a["title"].localeCompare(b["title"]);
           });
           for (var key in data_sorted) {
-            var value = data["codes"][key];
+            var value = data[key];
             //console.log(value);
 
             entry = add_entry(value);
             l.appendChild(entry);
           }
+      }
+
+      xmlhttp.onreadystatechange = function() {
+        //console.log(xmlhttp);
+        if (xmlhttp.readyState == 4) { // && xmlhttp.status == 200
+          json_codes = JSON.parse(xmlhttp.responseText)["codes"];
+          //console.log(xmlhttp.responseText);
+          //console.log(data);
+
+          updateList(filterData(json_codes));
         }
       };
 
