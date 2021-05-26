@@ -1044,4 +1044,24 @@
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
+  ,
+  {
+    "title" : "OPAL",
+    "subtitle" : "Object Oriented Parallel Accelerator Library",
+    "description" : "OPAL is a parallel open source tool for charged-particle optics",
+    "application": ["Cyclotrons", "FFAs", "Circular Accelrators", "Linacs", "FELs"],
+    "compute": ["laptop/desktop", "linux cluster", "HPC clusters"],
+    "method": ["3D3V", "ES-PIC", "ED-PIC", "non-linear dynamics", "Multiobjective Optimisation", ],
+    "phenomena": ["space charge","radiation", "particle matter interaction"],
+    "homepage" : "https://gitlab.psi.ch/OPAL/src/-/wikis/home/",
+    "institutions" : ["Paul Scherrer Institut","Centro de Investigaciones Energeticas Medioambientales Tecnologicas (CIEMAT)","SLAC National Accelerator Laboratory","STFC Rutherford Appleton Laboratory",
+                      "Los Alamos National Laboratory","Department of Physics, University of Oxford","Massachusetts Institute of Technology"],
+    "institution_link" : ["https://www.psi.ch"],
+    "repository" : "https://gitlab.psi.ch/OPAL/src",
+    "issue_tracker" : "https://gitlab.psi.ch/OPAL/src/-/issues",
+    "platform": ["Linux", "MAC"],
+    "license" : "GPLv3.0",
+    "publication" : "OPAL a Versatile Tool for Charged Particle Accelerator Simulations, A. Adelmann et at.\ arXiv:1905.06654",
+    "publication_link" : "https://arxiv.org/abs/1905.06654"
+  }
 ]}
