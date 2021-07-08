@@ -743,21 +743,23 @@
   ,
   {
     "title" : "Osiris",
-    "subtitle" : "TBD/",
-    "description" : "TBD/",
-    "application": [],
-    "compute": [],
-    "method": [],
+    "subtitle" : "an object-oriented parallel 3D PIC code for modeling
+    laser and particle beam-plasma interactions",
+    "description" : "An object-oriented, high performance fully explicit EM-PIC code",
+    "application": [plasma based accelerators, radiation sources],
+    "compute": ["laptop/desktop", "linux clusters", "HPC centers"],
+    "method": ["PIC"],
     "phenomena": [],
     "homepage" : "http://picksc.idre.ucla.edu/software/software-production-codes/osiris",
-    "institutions" : ["TBD/"],
-    "institution_link" : ["TBD/"],
-    "repository" : "TBD/",
-    "issue_tracker" : "TBD/",
+    "institutions" : ["UCLA", "IST/Lisbon"],
+    "institution_link" : ["http://www.ucla.edu/"],
+    "repository" : "https://github.com/GoLP-IST/osiris",
+    "issue_tracker" : "https://github.com/GoLP-IST/osiris/issues",
     "platform": [],
     "license" : "Collaborators/Proprietary",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "publication" : ["R. A. Fonseca, L. O. Silva, F. S. Tsung, V. K. Decyk, W. Lu, C. Ren, W. B. Mori, S. Deng, S. Lee, T. Katsouleas, J. C. Adam, "OSIRIS: A Three-Dimensional, Fully Relativistic Particle-in Cell Code for Modeling Plasma Based Accelerators", International Conference on Computational Science, ICSS-2002, pp 342-351 (2002).", "R. G. Hemker, "Particle-In-Cell Modeling of Plasma-Based Accelerators in Two and Three Dimensions", arXiv:1503.00276 (2015).", "R. A. Fonseca, S. F. Martins, L. O. Silva, J. W. Tonge, F. S. Tsung and W. B. Mori, "One-to-one direct modeling of experiments and astrophysical scenarios: pushing the envelope on kinetic plasma simulations", Plas. Phys. Cont. Fus., 50, 124034 (2008)."]
+    "publication_link" : ["https://link.springer.com/chapter/10.1007/3-540-47789-6_36","https://arxiv.org/abs/1503.00276",
+        "https://iopscience.iop.org/article/10.1088/0741-3335/50/12/124034"]
   }
   ,
   {
