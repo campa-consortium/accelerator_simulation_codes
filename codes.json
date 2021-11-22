@@ -659,7 +659,7 @@
     "institution_link" : ["https://www.desy.de", "https://www.lbl.gov"],
     "repository" : "https://github.com/Hi-PACE/hipace",
     "issue_tracker" : "https://github.com/Hi-PACE/hipace/issues",
-      "platform": ["linux", "macos"],
+    "platform": ["linux", "macos"],
     "license" : "BSD-3-Clause",
     "publication" : "Diederichs, S., Benedetti, C., Huebl, A., Lehe, R., Myers, A., Sinn, A., Vay, J.L., Zhang, W. and Thévenet, M., 'HiPACE++: a portable, 3D quasi-static Particle-in-Cell code', arXiv preprint arXiv:2109.10277 (2021).",
     "publication_link" : "https://arxiv.org/abs/2109.10277"
