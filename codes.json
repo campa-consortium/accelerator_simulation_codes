@@ -647,22 +647,22 @@
   }
   ,
   {
-    "title" : "HiPACE",
-    "subtitle" : "TBD/",
-    "description" : "TBD/",
-    "application": [],
-    "compute": [],
-    "method": [],
+    "title" : "HiPACE++",
+    "subtitle" : "Highly-efficient Plasma ACcelerator Emulation in C++",
+    "description" : "HiPACE++ is a portable (GPU-capable) 3D quasi-static particle-in-cell code for the simulation of plasma accelerators.",
+    "application": ["plasma acceleration"],
+    "compute": ["mpi", "gpu", "openmp"],
+    "method": ["quasi-static", "pic"],
     "phenomena": [],
-    "homepage" : "http://dx.doi.org/10.1088/0741-3335/56/8/084012",
-    "institutions" : ["TBD/"],
-    "institution_link" : ["TBD/"],
-    "repository" : "TBD/",
-    "issue_tracker" : "TBD/",
-    "platform": [],
-    "license" : "Collaborators/Proprietary",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
+    "homepage" : "https://hipace.readthedocs.io",
+    "institutions" : ["Deutsches Elektronen-Synchrotron", "Lawrence Berkeley National Laboratory"],
+    "institution_link" : ["https://www.desy.de", "https://www.lbl.gov"],
+    "repository" : "https://github.com/Hi-PACE/hipace",
+    "issue_tracker" : "https://github.com/Hi-PACE/hipace/issues",
+    "platform": ["linux", "macos"],
+    "license" : "BSD-3-Clause",
+    "publication" : "Diederichs, S., Benedetti, C., Huebl, A., Lehe, R., Myers, A., Sinn, A., Vay, J.L., Zhang, W. and Thévenet, M., 'HiPACE++: a portable, 3D quasi-static Particle-in-Cell code', arXiv preprint arXiv:2109.10277 (2021).",
+    "publication_link" : "https://arxiv.org/abs/2109.10277"
   }
   ,
   {
