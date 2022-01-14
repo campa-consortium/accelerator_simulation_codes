@@ -40,9 +40,17 @@ The `codes.json` file is our central database for all information.
 If you like to process and filter this list for your purpose, you could for instance load the whole list with Python:
 
 ```py
-import JSON
+import json
 
+# Local file
 codes = json.load(open("codes.json"))["codes"]
+
+# Remote file 
+import urllib.request
+URL  = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json"
+with urllib.request.urlopen(URL) as url:
+    codes = json.loads(url.read().decode())['codes']
+
 
 type(codes)
 # list: each code is one entry
