@@ -54,11 +54,12 @@ with urllib.request.urlopen(URL) as url:
 
 type(codes)
 # list: each code is one entry
+
 type(codes[0])
 # dict: a code entry with keywords as defined above
 
 len(codes)
-# "55" as of 05/26/2021
+# 55 as of January 2022
 ```
 
 ### Web Endpoints
