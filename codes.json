@@ -265,25 +265,7 @@
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
-,
-  {
-    "title" : "OPAL",
-    "subtitle" : "Object Oriented Parallel Accelerator Library",
-    "description" : "OPAL is a parallel open source tool for charged-particle optics in linear accelerators and rings, including 3D space charge.",
-    "application": [],
-    "compute": [],
-    "method": [],
-    "phenomena": [],
-    "homepage" : "https://gitlab.psi.ch/OPAL/src/-/wikis/home/",
-    "institutions" : ["Paul Scherrer Institute, Accelerator Development and Operations Support Group"],
-    "institution_link" : ["https://ados.web.psi.ch/opa/"],
-    "repository" : "TBD",
-    "issue_tracker" : "TBD",
-    "platform": [],
-    "license" : "TBD",
-    "publication" : "TBD",
-    "publication_link" : "TBD"
-  }
+
   ,
   {
     "title" : "PLACET",
