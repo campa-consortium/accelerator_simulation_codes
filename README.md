@@ -45,7 +45,7 @@ import json
 # Local file
 codes = json.load(open("codes.json"))["codes"]
 
-# Remote file 
+# Remote file
 import urllib.request
 URL  = "https://campa-consortium.github.io/accelerator_simulation_codes/codes.json"
 with urllib.request.urlopen(URL) as url:
