@@ -90,7 +90,7 @@
     "repository" : "https://github.com/beam-beam/BeamBeam3D",
     "issue_tracker" : "https://github.com/beam-beam/BeamBeam3D/issues",
     "platform": [],
-    "license" : "BSD-3-Clause-LBNL",
+    "license" : "Open/BSD-3-Clause-LBNL",
     "publication" : "J. Qiang, M.A. Furman, and R. D. Ryne, 'A parallel particle-in-cell model for beam-beam interaction in high energy ring colliders,' J. Comp. Phys. 198 (2004) ",
     "publication_link" : "https://doi.org/10.1016/j.jcp.2004.01.008"
   }
@@ -146,7 +146,7 @@
     "repository" : "https://github.com/impact-lbl/IMPACT-Z",
     "issue_tracker" : "https://github.com/impact-lbl/IMPACT-Z/issues",
     "platform": ["linux", "macos", "windows"],
-    "license" : "BSD",
+    "license" : "Open/BSD-3-Clause",
     "publication" : "J. Qiang, R. Ryne, S. Habib, V. Decyk, “An Object-Oriented Parallel Particle-In-Cell Code for Beam Dynamics Simulation in Linear Accelerators,” Journal of Computational Physics 163 (2000), pp. 434-451.",
     "publication_link" : "https://doi.org/10.1006/jcph.2000.6570"
   }
@@ -414,7 +414,7 @@
     "repository" : "https://bitbucket.org/berkeleylab/warp",
     "issue_tracker" : "https://bitbucket.org/berkeleylab/warp/issues",
     "platform": ["linux"],
-    "license" : "BSD-3-Clause-LBNL",
+    "license" : "Open/BSD-3-Clause-LBNL",
     "publication" : "A. Friedman, R. H. Cohen, D. P. Grote, S. M. Lund, W. M. Sharp, J.-L. Vay, I. Haber, and R. A. Kishek, 'Computational Methods in the Warp Code Framework for Kinetic Simulations of Particle Beams and Plasmas,' IEEE Trans. Plasma Sci. vol. 42, no. 5, p. 1321 (May 2014)",
     "publication_link" : "https://doi.org/10.1109/TPS.2014.2308546"
   }
@@ -433,7 +433,7 @@
     "repository" : "https://github.com/ECP-WarpX/WarpX",
     "issue_tracker" : "https://github.com/ECP-WarpX/WarpX/issues",
     "platform": ["linux", "macos", "windows"],
-    "license" : "BSD-3-Clause-LBNL",
+    "license" : "Open/BSD-3-Clause-LBNL",
     "publication" : "J.-L. Vay, A. Huebl, A. Almgren, L. D. Amorim, J. Bell, L. Fedeli, L. Ge, K. Gott, D. P. Grote, M. Hogan, R. Jambunathan, R. Lehe, A. Myers, C. Ng, M. Rowan, O. Shapoval, M. Thevenet, H. Vincenti, E. Yang, N. Zaim, W. Zhang, Y. Zhao, and E. Zoni, 'Modeling of a chain of three plasma accelerator stages with the WarpX electromagnetic PIC code on GPUs,' Physics of Plasmas 28, 023105 (2021)",
     "publication_link" : "https://doi.org/10.1063/5.0028512"
   }
@@ -623,7 +623,7 @@
     "repository" : "https://github.com/fbpic/fbpic",
     "issue_tracker" : "https://github.com/fbpic/fbpic/issues",
     "platform": ["linux", "macos", "windows"],
-    "license" : "Open/modified BSD",
+    "license" : "Open/BSD-3-Clause-LBNL",
     "publication" : "R. Lehe, M. Kirchen, I.A. Andriyash, B.B. Godfrey, J.-L. Vay, 'A spectral, quasi-cylindrical and dispersion-free Particle-In-Cell algorithm', Computer Physics Communications 203, pp. 66-82 (2016)",
     "publication_link" : "https://doi.org/10.1016/j.cpc.2016.02.007"
   }
@@ -642,7 +642,7 @@
     "repository" : "https://github.com/Hi-PACE/hipace",
     "issue_tracker" : "https://github.com/Hi-PACE/hipace/issues",
     "platform": ["linux", "macos"],
-    "license" : "BSD-3-Clause",
+    "license" : "Open/BSD-3-Clause-LBNL",
     "publication" : "Diederichs, S., Benedetti, C., Huebl, A., Lehe, R., Myers, A., Sinn, A., Vay, J.L., Zhang, W. and Thévenet, M., 'HiPACE++: a portable, 3D quasi-static Particle-in-Cell code', arXiv preprint arXiv:2109.10277 (2021).",
     "publication_link" : "https://arxiv.org/abs/2109.10277"
   }
@@ -966,7 +966,7 @@
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
     "platform": [],
-    "license" : "Open/BSD clause-3 license",
+    "license" : "Open/BSD-3-Clause",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
