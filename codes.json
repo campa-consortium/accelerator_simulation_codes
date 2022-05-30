@@ -204,7 +204,7 @@
     "repository" : "https://github.com/Merlin-Collaboration/Merlin/",
     "issue_tracker" : "https://github.com/Merlin-Collaboration/Merlin/issues/",
     "platform": [],
-    "license" : "GPL-2.0",
+    "license" : "Open/GPLv2+",
     "publication" : "Robert Appleby et al., 'Merlin++, a flexible and feature-rich accelerator physics and particle tracking library'",
     "publication_link" : "https://arxiv.org/abs/2011.04335"
   }
@@ -242,7 +242,7 @@
     "repository" : "https://github.com/ocelot-collab/ocelot/",
     "issue_tracker" : "https://github.com/ocelot-collab/ocelot/issues/",
     "platform": ["linux", "macos", "windows"],
-    "license" : "GPL-3.0",
+    "license" : "Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
@@ -395,7 +395,7 @@
     "repository" : "https://bitbucket.com/fnalacceleratormodeling/synergia2",
     "issue_tracker" : "TBD/",
     "platform": [],
-    "license" : "GPL",
+    "license" : "Open/GPLv2+",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
