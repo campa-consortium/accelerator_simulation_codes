@@ -452,7 +452,7 @@
     "repository" : "https://zgoubi.sourceforge.io/",
     "issue_tracker" : "TBD",
     "platform": [],
-    "license" : "GPLv2",
+    "license" : "Open/GPLv2",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
@@ -566,7 +566,7 @@
     "repository" : "TBD/",
     "issue_tracker" : "TBD/",
     "platform": [],
-    "license" : " Open/GPLv3",
+    "license" : "Open/GPLv3",
     "publication" : "TBD",
     "publication_link" : "TBD"
   }
@@ -795,7 +795,7 @@
     "repository" : "https://github.com/ComputationalRadiationPhysics/picongpu",
     "issue_tracker" : "https://github.com/ComputationalRadiationPhysics/picongpu/issues",
     "platform": [],
-    "license" : "GPLv3+",
+    "license" : "Open/GPLv3+",
     "publication" : "M. Bussmann et al., 'Radiative Signatures of the Relativistic Kelvin-Helmholtz Instability,' Proceedings of the International Conference on High Performance Computing, Networking, Storage and Analysis (SC13), 2013",
     "publication_link" : "https://doi.org/10.1145/2503210.2504564"
   }
@@ -1031,7 +1031,7 @@
   {
     "title" : "OPAL",
     "subtitle" : "Object Oriented Parallel Accelerator Library",
-    "description" : "OPAL is a parallel open source tool for charged-particle optics",
+    "description" : "OPAL is a parallel open source tool for charged-particle optics in linear accelerators and rings, including 3D space charge.",
     "application": ["Cyclotrons", "FFAs", "Circular Accelrators", "Linacs", "FELs"],
     "compute": ["laptop/desktop", "linux cluster", "HPC clusters"],
     "method": ["3D3V", "ES-PIC", "ED-PIC", "non-linear dynamics", "Multiobjective Optimisation"],
@@ -1048,7 +1048,7 @@
     "repository" : "https://gitlab.psi.ch/OPAL/src",
     "issue_tracker" : "https://gitlab.psi.ch/OPAL/src/-/issues",
     "platform": ["linux", "macos"],
-    "license" : "GPLv3.0",
+    "license" : "Open/GPLv3+",
     "publication" : "OPAL a Versatile Tool for Charged Particle Accelerator Simulations, A. Adelmann et at. arXiv:1905.06654",
     "publication_link" : "https://arxiv.org/abs/1905.06654"
   }
