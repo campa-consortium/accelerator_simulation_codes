@@ -557,7 +557,7 @@
     "subtitle" : "Quasi-cylindric PSATD PIC toolkit for [L/P]WFA and FEL simulation",
     "description" : "A library containing quasi-cylindric PSATD PIC solvers, particle initialization and motion, SR emission mappers, and simulation routines for plasma acceleration and FEL modeling",
     "application": ["laser-plasma", "free-electron-laser", "synchrotron-radiation"],
-    "compute": ["mpi", "openMP"],
+    "compute": ["mpi", "openmp"],
     "method": ["PIC"],
     "phenomena": [],
     "homepage" : "https://github.com/hightower8083/chimera",
