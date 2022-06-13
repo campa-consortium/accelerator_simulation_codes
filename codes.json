@@ -882,7 +882,7 @@
     "description" : "Smilei is an electromagnetic Particle-In-Cell code offering high performance, user friendliness and a large range of applications. It includes many physics modules (ionisation, collisions, QED, ...) and advanced numerical techniques (cylindrical geometry, envelope solver, perfectly-matched layers, ...)",
     "homepage" : "https://smileipic.github.io/Smilei",
     "application": ["laser-plasma", "astrophysics", "space physics"],
-    "compute": ["C++", "python", "MPI", "openmp", "SIMD", "GPU"],
+    "compute": ["C++", "python", "MPI", "openmp", "SIMD"],
     "method": ["PIC", "FDTD", "spectral solver", "PML", "Monte-Carlo"],
     "phenomena": ["laser acceleration", "laser-plasma interaction"],
     "institutions" : ["Maison de la Simulation", "Laboratoire pour l’Utilisation des Lasers Intenses", "Laboratoire Leprince-Ringuet"],
