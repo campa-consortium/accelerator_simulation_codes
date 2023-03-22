@@ -152,6 +152,25 @@
   }
   ,
   {
+    "title" : "ImpactX",
+    "subtitle" : "An s-based beam dynamics code including space charge effects",
+    "description" : "ImpactX is an s-based beam dynamics code including space charge effects. It is the next generation of the IMPACT-Z code.",
+    "homepage" : "https://impactx.readthedocs.io",
+    "application": ["beam dynamics", "lattice design"],
+    "compute": ["mpi", "gpu", "openmp", "mesh-refinement"],
+    "method": ["pic", "s-based"],
+    "phenomena": ["space charge"],
+    "institutions" : ["Lawrence Berkeley National Laboratory"],
+    "institution_link" : ["https://www.lbl.gov"],
+    "repository" : "https://github.com/ECP-WarpX/impactx",
+    "issue_tracker" : "https://github.com/ECP-WarpX/impactx/issues",
+    "platform": ["linux", "macos", "windows"],
+    "license" : "Open/BSD-3-Clause-LBNL",
+    "publication" : "Huebl A, Lehe R, Mitchell C E, Qiang J, Ryne R D, Sandberg R T, Vay JL. 'Next Generation Computational Tools for the Modeling and Design of Particle Accelerators at Exascale'. 2022 North American Particle Accelerator Conference (NAPAC22), TUYE2, pp. 302-306, 2022",
+    "publication_link" : "https://doi.org/10.18429/JACoW-NAPAC2022-TUYE2"
+  }
+  ,
+  {
         "title" : "MAD (including MAD8, MAD-X, and MAD-NG)",
     "subtitle" : "Methodical Accelerator Design",
     "description" : "MAD is a general-purpose tool for charged-particle optics design and studies in alternating-gradient accelerators and beam lines. It can handle medium size to very large accelerators and solves various problems on such machines.  MAD-X is the successor of MAD-8 and was specifically adapted to the needs of the design of the LHC. The PTC library of E. Forest is also embedded in MAD-X as an addition to better support small and low energy accelerators. ",
