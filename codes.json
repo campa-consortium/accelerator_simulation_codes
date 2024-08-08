@@ -1048,6 +1048,34 @@
   }
   ,
   {
+    "title" : "Xsuite",
+    "description" : "Xsuite is a collection of python packages for the simulation of beam dynamics in particle accelerators. It supports different computing platforms, in particular conventional CPUs and GPUs.",
+    "application": ["beam dynamics", "lattice design"],
+    "compute": ["cpu", "gpu", "openmp", "opencl", "cuda", "python"],
+    "method": ["symplectic integration"],
+    "phenomena": ["synchrotron radiation", "impedances", "feedbacks", "space charge", "electron cloud", "beam-beam", "beamstrahlung", "electron lenses", "electron cooling", "beam-matter interaction"],
+    "platform": ["linux", "macos", "windows"],
+    "homepage": "https://xsuite.web.cern.ch",
+    "institutions" : [
+      "CERN",
+      "EPFL",
+      "GSI",
+      "TRIUMF"
+    ],
+    "institution_link" : [
+      "https://home.cern/",
+      "https://www.epfl.ch/",
+      "https://www.gsi.de/",
+      "https://www.triumf.ca/"
+    ],
+    "repository" : "https://github.com/xsuite",
+    "issue_tracker" : "https://github.com/xsuite/xsuite/issues",
+    "license" : "Apache-2.0",
+    "publication" : "G. Iadarola, R. De Maria, S. Łopaciuk, A. Abramov, X. Buffat, D. Demetriadou, L. Deniau, P. Hermes, P. Kicsiny, P. Kruyt, A. Latina, L. Mether, K. Paraschou, G. Sterbini, F. F. Van Der Veken, P. Belanger, P. Niedermayer, D. Di Croce, T. Pieloni, L. Van Riesen-Haupt, M. Seidel. “Xsuite: An Integrated Beam Physics Simulation Framework,” JACoW HB2023 (2024), TUA2I1.",
+    "publication_link" : "https://doi.org/10.18429/JACoW-HB2023-TUA2I1"
+  }
+  ,
+  {
     "title" : "OPAL",
     "subtitle" : "Object Oriented Parallel Accelerator Library",
     "description" : "OPAL is a parallel open source tool for charged-particle optics in linear accelerators and rings, including 3D space charge.",
